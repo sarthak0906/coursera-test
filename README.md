@@ -1,3 +1,7 @@
+##first GitHub repository
+
+this is my first repo on github made as a test for an assignment on coursera to make myself familier  with GitHub and how to use it.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/shivangisrivastava0408/coursera-test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
