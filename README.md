@@ -1,6 +1,6 @@
 ##first GitHub repository
 
-this is my first repo on github made as a test for an assignment on coursera to make myself familier  with GitHub and how to use it.
+this is my first repo on github made as a test for an assignment on coursera to make myself familier  with GitHub and how to use it to start using it for more often use.
 
 ## Welcome to GitHub Pages
 
